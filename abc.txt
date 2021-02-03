@@ -5,9 +5,6 @@ Adarsh Pal
 Shubham
 text added by Aviral Gupta
 abc
-<<<<<<< HEAD
-aviral (lesbian)
-=======
 Siddhant: NO CONFLICTS SORRY
 Aviral: Sorry Accepted :P
->>>>>>> 043f25ad0da42dc77247386d5b26ddfdf3472ca6
+hii
