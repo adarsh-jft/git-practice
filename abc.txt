@@ -15,4 +15,10 @@ Aviral: Sorry Accepted :P
 hii
 hii
 tere me hmesha conflict aega beta
+<<<<<<< HEAD
+
+adm branch added
+dev branch added
+=======
 nhi beta
+>>>>>>> 9ed508d99c6f4a63fe0abbcda201691f53372135
