@@ -1,6 +1,3 @@
 Text added by siddhant.
-<<<<<<< HEAD
-Shubham
-=======
 Adarsh Pal
->>>>>>> de8d5a8ddbb49999df67da4c8b399a75244f6a55
+Shubham
