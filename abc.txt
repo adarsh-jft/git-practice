@@ -1,8 +1,5 @@
 Text added by siddhant.
-<<<<<<< HEAD
 Shubham
 Adarsh Pal
-=======
 Adarsh Pal
 Shubham
->>>>>>> c1ecbe21c6ff80440bfddb7fbe923b1d98a66e3a
