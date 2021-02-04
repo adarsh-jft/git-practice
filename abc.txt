@@ -21,8 +21,14 @@ adm branch added
 dev branch added
 nhi beta
 acha ok
+<<<<<<< HEAD
 ascvuivcucasucascucscuoasvcscasc
 ascasvcasuivcasuocvasucasvuocvascusvcvasc
+=======
+sdnos
+sdofnsod
+=======
+>>>>>>> e0dcd03598505f4b1a1b205d7322a3b5e8b993ab
 helloSiddhant: NO CONFLICTS SORRY
 Aviral: Sorry Accepted 
 hello A
@@ -30,3 +36,7 @@ hello there
 shss
 ght
 asdsand
+<<<<<<< HEAD
+=======
+
+>>>>>>> e0dcd03598505f4b1a1b205d7322a3b5e8b993ab
